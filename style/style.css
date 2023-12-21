@@ -1,0 +1,156 @@
+/* fonts link */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f1f1f1;
+  font-weight: 700;
+}
+.container {
+  width: 1166px;
+  margin: 0 auto;
+}
+header li {
+  display: inline-block;
+  margin-right: 35px;
+}
+nav {
+  display: inline-block;
+}
+.girl_img {
+  vertical-align: middle;
+}
+header a {
+  color: #000;
+  font-size: 11px;
+}
+h1 {
+  color: #000;
+  font-size: 24px;
+  margin-bottom: 27px;
+  font-weight: 700;
+}
+header {
+  padding-top: 21px;
+  padding-bottom: 42px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+  z-index: 9;
+}
+
+/* tranding position section */
+
+.positiontext {
+  position: relative;
+}
+.text {
+  position: absolute;
+  top: 32px;
+  left: 41px;
+  color: #fff;
+  font-size: 20px;
+}
+.card {
+  width: 362px;
+  background-color: #fff;
+  border-radius: 5px;
+  display: inline-block;
+}
+.textbox {
+  padding: 67px 87px 41px 37px;
+  color: #8a8787;
+  font-size: 10px;
+}
+.textbox p {
+  margin-bottom: 14px;
+}
+.ibiza {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.clock {
+  vertical-align: middle;
+  margin-right: 11px;
+  margin-left: 3px;
+}
+.tranding {
+  margin-bottom: 57px;
+  margin-top: 100px;
+}
+
+/* Happening now section */
+
+.secondtitle {
+  margin-bottom: 30px;
+  font-weight: 800;
+}
+.bridge {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 42px;
+}
+.centertext {
+  color: #fff;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.imgbox1 {
+  display: inline-block;
+  width: 758px;
+  margin-right: 42px;
+}
+.imgbox2 {
+  width: 362px;
+  display: inline-block;
+  vertical-align: top;
+}
+.forest {
+  margin-bottom: 98px;
+}
+.elephant {
+  margin-bottom: 103px;
+}
+.happening {
+  margin-bottom: 36px;
+}
+
+/* footer section */
+footer {
+  padding-top: 59px;
+  padding-bottom: 30px;
+  background-color: #243043;
+}
+footer ul {
+  display: inline-block;
+}
+.footerlist {
+  margin-right: 75px;
+  margin-left: 100px;
+}
+
+footer p {
+  display: inline-block;
+  vertical-align: top;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  margin-left: 100px;
+}
+footer a {
+  color: #818687;
+  font-size: 12px;
+}
+footer li {
+  margin-bottom: 14px;
+}
+.geolab {
+  margin-left: 411px;
+  vertical-align: top;
+}
